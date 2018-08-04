@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Balloon</string>
+    <string name="URL">Enter the URL</string>
+    <string name="go_to_website">Go to website</string>
+    <string name="title_of_website">Title of Website</string>
+    <string name="website_header">Website Header</string>
+    <string name="load_data">Load Data</string>
+    <string name="title_view_text">Title</string>
+    <string name="header_view_text">Header</string>
+</resources>
